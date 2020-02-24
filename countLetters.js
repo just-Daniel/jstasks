@@ -12,3 +12,5 @@ const myText = text => {
 }
   
 console.log(myText("Amy normally hated Monday mornings, but this year was different."))
+
+// RETURN: "Ви отримали букву "a", вона повторюється 6 раз."
